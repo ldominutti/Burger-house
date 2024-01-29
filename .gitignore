@@ -1,5 +1,5 @@
-node_modules/
-Burger-house/node_modules/
-Burger-house/public/
-Burger-house/src/assets
+Frontend/node_modules/
+Frontend/Burger-house/node_modules/
+Frontend/Burger-house/public/
+Frontend/Burger-house/src/assets
 venv/
