@@ -9,7 +9,7 @@ Frontend: The frontend section of the project is located within the 'burger-hous
 Backend: The backend functionalities are located in the 'backend' directory. Here the server-side functionalities are handled. backend/orders: App in charge of managing orders.
 
 # Getting Started:
-Clone this repository to your local machine. Install dependencies if necessary. you can activate the virtual environment with the command './venv/scripts/activate' Start the frontend with the 'npm run dev' command inside the 'burger-house' folder Start the backend with the command 'Python manage.py runserver' inside the main directory
+Clone this repository to your local machine. Install necessary dependencies:"npm install npm install vite npm install react-router-dom npm install react-hot-toast npm install axios npm install react-hook-form". Start the frontend with the 'npm run dev' command inside the 'burger-house' folder, start the backend with the command 'Python manage.py runserver' inside the main directory
 
 Technologies Used:
 React Django Python
