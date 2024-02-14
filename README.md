@@ -12,4 +12,4 @@ Backend: The backend functionalities are located in the 'Backend/Backend' direct
 Clone this repository to your local machine. Install the necessary dependencies inside the 'Frontend/Burger-house' directory: "npm install npm install vite npm install react-router-dom npm install react-hot-toast npm install axios npm install react-hook-form". Start the frontend with 'npm run dev' command inside 'Frontend/Burger-house' folder, start backend with 'Python manage.py runserver' command inside 'Backend' directory
 
 Technologies Used:
-React Django Python
+React Django Python Vite.js
