@@ -9,7 +9,7 @@ Frontend: The frontend section of the project is located within the 'Frontend/Bu
 Backend: The backend functionalities are located in the 'Backend/Backend' directory. Server-side functionalities are handled here. Backend/orders: App in charge of managing orders.
 
 # Getting Started:
-Clone this repository to your local machine. Install the necessary dependencies inside the 'Frontend/Burger-house' directory: "npm install npm install vite npm install react-router-dom npm install react-hot-toast npm install axios npm install react-hook-form". Start the frontend with 'npm run dev' command inside 'Frontend/Burger-house' folder, start backend with 'Python manage.py runserver' command inside 'Backend' directory
+Clone this repository to your local machine. Install the necessary dependencies inside the 'Frontend/Burger-house' directory: "npm install npm install vite npm install react-router-dom npm install react-hot-toast npm install axios npm install react-hook-form". Start the frontend with the command 'npm run dev' inside the 'Frontend/Burger-house' folder, start the backend with the command 'Python Manage.py RunServer' inside the 'Backend' directory. To see the page working visit "http://localhost:5173/home" after completing the previous steps
 
 Technologies Used:
 React Django Python Vite.js
